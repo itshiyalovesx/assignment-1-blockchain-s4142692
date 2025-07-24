@@ -60,10 +60,10 @@ python digital_signature_demo.py
 
 Interaction:
 The program will:
-1. Generates and display a new RSA public-private key pair (note: private key is shown for academic context only, never share in real applications!).
-2. Prompts you to "Enter a message string to sign"
-3. Displays the original message and its generated digital signature.
-4. Verifes the signature against the original message and output the validation result (True or False).
-5. Demonstrate how verification fails if the message or the signature is tampered with.
+1. Generate and display a new RSA public-private key pair (note: private key is shown for academic context only, never share in real applications!).
+2. Prompt you to "Enter a message string to sign"
+3. Display the original message and its generated digital signature.
+4. Verify the signature against the original message and output the validation result (True or False).
+5. Demonstrat how verification fails if the message or the signature is tampered with.
 
 
