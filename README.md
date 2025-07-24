@@ -1,4 +1,4 @@
-#**BlockChain Technology Assignment 1 - Crypto Data- s4142692**#
+**BlockChain Technology Assignment 1 - Crypto Data- s4142692**
 
 Blockchain Cryptography Demonstrations
  Hash Functions, Merkle Trees, and Digital Signatures
