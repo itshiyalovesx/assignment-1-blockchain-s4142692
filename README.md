@@ -1,5 +1,7 @@
 **BlockChain Technology Assignment 1 - Crypto Data- s4142692**
 
+All Source Codes: From Google AI Gemini, and made few alterations to it 
+
 Blockchain Cryptography Demonstrations
  Hash Functions, Merkle Trees, and Digital Signatures
  *All output is printed in green*
