@@ -66,6 +66,6 @@ The program will:
 2. Prompt you to "Enter a message string to sign"
 3. Display the original message and its generated digital signature.
 4. Verify the signature against the original message and output the validation result (True or False).
-5. Demonstrat how verification fails if the message or the signature is tampered with.
+5. Demonstrate how verification fails if the message or the signature is tampered with.
 
 
